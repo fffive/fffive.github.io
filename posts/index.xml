@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on fffive</title>
+    <link>https://fffive.github.io/posts/</link>
+    <description>Recent content in Posts on fffive</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Apr 2025 21:38:55 +0800</lastBuildDate>
+    <atom:link href="https://fffive.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://fffive.github.io/posts/docker/</link>
+      <pubDate>Thu, 24 Apr 2025 21:38:55 +0800</pubDate>
+      <guid>https://fffive.github.io/posts/docker/</guid>
+      <description>&lt;p&gt;Dockerfile 的书写&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
